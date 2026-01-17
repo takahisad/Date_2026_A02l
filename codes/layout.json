@@ -1,0 +1,2029 @@
+{
+  "version": 3,
+  "threshold": 3.5,
+  "globalEdge": {
+    "color": "#b279a2",
+    "labelFontSize": 13
+  },
+  "nodes": [
+    {
+      "id": "A02l [#2]",
+      "x": -70,
+      "y": 201,
+      "label": "A02l [#2]",
+      "color": {
+        "background": "#03af7a",
+        "border": "#333333",
+        "highlight": {
+          "background": "#03af7a",
+          "border": "#333333"
+        },
+        "hover": {
+          "background": "#03af7a",
+          "border": "#333333"
+        }
+      },
+      "font": {
+        "size": 20
+      }
+    },
+    {
+      "id": "T11v1 [#3]",
+      "x": -570,
+      "y": 181,
+      "label": "T11v1 [#3]",
+      "color": {
+        "background": "#f6aa00",
+        "border": "#333333",
+        "highlight": {
+          "background": "#f6aa00",
+          "border": "#333333"
+        },
+        "hover": {
+          "background": "#f6aa00",
+          "border": "#333333"
+        }
+      },
+      "font": {
+        "size": 20
+      }
+    },
+    {
+      "id": "A18g [#5]",
+      "x": -473,
+      "y": 44,
+      "label": "A18g [#5]",
+      "color": {
+        "background": "#f6aa00",
+        "border": "#333333",
+        "highlight": {
+          "background": "#f6aa00",
+          "border": "#333333"
+        },
+        "hover": {
+          "background": "#f6aa00",
+          "border": "#333333"
+        }
+      },
+      "font": {
+        "size": 20
+      }
+    },
+    {
+      "id": "A31x [#2]",
+      "x": -129,
+      "y": 411,
+      "label": "A31x [#2]",
+      "color": {
+        "background": "#4C78A8",
+        "border": "#333333"
+      },
+      "font": {
+        "size": 20
+      }
+    },
+    {
+      "id": "A14a1 [#2]",
+      "x": -502,
+      "y": -47,
+      "label": "A14a1 [#2]",
+      "color": {
+        "background": "#f6aa00",
+        "border": "#333333",
+        "highlight": {
+          "background": "#f6aa00",
+          "border": "#333333"
+        },
+        "hover": {
+          "background": "#f6aa00",
+          "border": "#333333"
+        }
+      },
+      "font": {
+        "size": 20
+      }
+    },
+    {
+      "id": "A19f [#6]",
+      "x": -532,
+      "y": 289,
+      "label": "A19f [#6]",
+      "color": {
+        "background": "#f6aa00",
+        "border": "#333333",
+        "highlight": {
+          "background": "#f6aa00",
+          "border": "#333333"
+        },
+        "hover": {
+          "background": "#f6aa00",
+          "border": "#333333"
+        }
+      },
+      "font": {
+        "size": 20
+      }
+    },
+    {
+      "id": "A02k [#2]",
+      "x": -499,
+      "y": 390,
+      "label": "A02k [#2]",
+      "color": {
+        "background": "#f6aa00",
+        "border": "#333333",
+        "highlight": {
+          "background": "#f6aa00",
+          "border": "#333333"
+        },
+        "hover": {
+          "background": "#f6aa00",
+          "border": "#333333"
+        }
+      },
+      "font": {
+        "size": 20
+      }
+    },
+    {
+      "id": "dbd [#2]",
+      "x": -447,
+      "y": -204,
+      "label": "dbd [#2]",
+      "color": {
+        "background": "#f6aa00",
+        "border": "#333333",
+        "highlight": {
+          "background": "#f6aa00",
+          "border": "#333333"
+        },
+        "hover": {
+          "background": "#f6aa00",
+          "border": "#333333"
+        }
+      },
+      "font": {
+        "size": 20
+      }
+    },
+    {
+      "id": "A06l [#2]",
+      "x": 423,
+      "y": 71,
+      "label": "A06l [#2]",
+      "color": {
+        "background": "#4dc4ff",
+        "border": "#333333",
+        "highlight": {
+          "background": "#4dc4ff",
+          "border": "#333333"
+        },
+        "hover": {
+          "background": "#4dc4ff",
+          "border": "#333333"
+        }
+      },
+      "font": {
+        "size": 20
+      }
+    },
+    {
+      "id": "A05a [#4]",
+      "x": 428,
+      "y": 328,
+      "label": "A05a [#4]",
+      "color": {
+        "background": "#4dc4ff",
+        "border": "#333333",
+        "highlight": {
+          "background": "#4dc4ff",
+          "border": "#333333"
+        },
+        "hover": {
+          "background": "#4dc4ff",
+          "border": "#333333"
+        }
+      },
+      "font": {
+        "size": 20
+      }
+    },
+    {
+      "id": "A08a [#2]",
+      "x": 421,
+      "y": -48,
+      "label": "A08a [#2]",
+      "color": {
+        "background": "#4dc4ff",
+        "border": "#333333",
+        "highlight": {
+          "background": "#4dc4ff",
+          "border": "#333333"
+        },
+        "hover": {
+          "background": "#4dc4ff",
+          "border": "#333333"
+        }
+      },
+      "font": {
+        "size": 20
+      }
+    },
+    {
+      "id": "A31k [#2]",
+      "x": 429,
+      "y": 198,
+      "label": "A31k [#2]",
+      "color": {
+        "background": "#4dc4ff",
+        "border": "#333333",
+        "highlight": {
+          "background": "#4dc4ff",
+          "border": "#333333"
+        },
+        "hover": {
+          "background": "#4dc4ff",
+          "border": "#333333"
+        }
+      },
+      "font": {
+        "size": 20
+      }
+    },
+    {
+      "id": "A27p [#2]",
+      "x": 424,
+      "y": -187,
+      "label": "A27p [#2]",
+      "color": {
+        "background": "#4dc4ff",
+        "border": "#333333",
+        "highlight": {
+          "background": "#4dc4ff",
+          "border": "#333333"
+        },
+        "hover": {
+          "background": "#4dc4ff",
+          "border": "#333333"
+        }
+      },
+      "font": {
+        "size": 20
+      }
+    }
+  ],
+  "edges": [
+    {
+      "id": "A02l [#2]__A31x [#2]",
+      "from": "A02l [#2]",
+      "to": "A31x [#2]",
+      "value": 26.96629213483146,
+      "label": "27%",
+      "color": {
+        "color": "#b279a2",
+        "highlight": "#b279a2",
+        "hover": "#b279a2"
+      },
+      "font": {
+        "align": "middle",
+        "size": 13,
+        "vadjust": 0
+      },
+      "smooth": {
+        "roundness": 0.45,
+        "type": "continuous"
+      },
+      "endPointOffset": {
+        "from": 16,
+        "to": -16
+      },
+      "width": 2.6179775280898876
+    },
+    {
+      "id": "A02l [#2]__A06l [#2]",
+      "from": "A02l [#2]",
+      "to": "A06l [#2]",
+      "value": 9.108159392789377,
+      "label": "9%",
+      "color": {
+        "color": "#b279a2",
+        "highlight": "#b279a2",
+        "hover": "#b279a2"
+      },
+      "font": {
+        "align": "middle",
+        "size": 13,
+        "vadjust": 0
+      },
+      "smooth": {
+        "roundness": 0.3,
+        "type": "continuous"
+      },
+      "endPointOffset": null,
+      "width": 1.5464895635673626
+    },
+    {
+      "id": "A02l [#2]__A05a [#4]",
+      "from": "A02l [#2]",
+      "to": "A05a [#4]",
+      "value": 8.932461873638344,
+      "label": "9%",
+      "color": {
+        "color": "#b279a2",
+        "highlight": "#b279a2",
+        "hover": "#b279a2"
+      },
+      "font": {
+        "align": "middle",
+        "size": 13,
+        "vadjust": 0
+      },
+      "smooth": {
+        "roundness": 0.45,
+        "type": "continuous"
+      },
+      "endPointOffset": {
+        "from": 16,
+        "to": -16
+      },
+      "width": 1.5359477124183005
+    },
+    {
+      "id": "A02l [#2]__A08a [#2]",
+      "from": "A02l [#2]",
+      "to": "A08a [#2]",
+      "value": 9.014084507042254,
+      "label": "9%",
+      "color": {
+        "color": "#b279a2",
+        "highlight": "#b279a2",
+        "hover": "#b279a2"
+      },
+      "font": {
+        "align": "middle",
+        "size": 13,
+        "vadjust": 0
+      },
+      "smooth": {
+        "roundness": 0.45,
+        "type": "continuous"
+      },
+      "endPointOffset": {
+        "from": 16,
+        "to": -16
+      },
+      "width": 1.5408450704225354
+    },
+    {
+      "id": "A02l [#2]__A31k [#2]",
+      "from": "A02l [#2]",
+      "to": "A31k [#2]",
+      "value": 5.2542372881355925,
+      "label": "5%",
+      "color": {
+        "color": "#b279a2",
+        "highlight": "#b279a2",
+        "hover": "#b279a2"
+      },
+      "font": {
+        "align": "middle",
+        "size": 13,
+        "vadjust": 0
+      },
+      "smooth": {
+        "roundness": 0.3,
+        "type": "continuous"
+      },
+      "endPointOffset": null,
+      "width": 1.3152542372881355
+    },
+    {
+      "id": "A02l [#2]__A27p [#2]",
+      "from": "A02l [#2]",
+      "to": "A27p [#2]",
+      "value": 8.94308943089431,
+      "label": "9%",
+      "color": {
+        "color": "#b279a2",
+        "highlight": "#b279a2",
+        "hover": "#b279a2"
+      },
+      "font": {
+        "align": "middle",
+        "size": 13,
+        "vadjust": 0
+      },
+      "smooth": {
+        "roundness": 0.3,
+        "type": "continuous"
+      },
+      "endPointOffset": null,
+      "width": 1.5365853658536586
+    },
+    {
+      "id": "T11v1 [#3]__A02l [#2]",
+      "from": "T11v1 [#3]",
+      "to": "A02l [#2]",
+      "value": 20.634920634920636,
+      "label": "21%",
+      "color": {
+        "color": "#b279a2",
+        "highlight": "#b279a2",
+        "hover": "#b279a2"
+      },
+      "font": {
+        "align": "middle",
+        "size": 13,
+        "vadjust": 0
+      },
+      "smooth": {
+        "roundness": 0.3,
+        "type": "continuous"
+      },
+      "endPointOffset": null,
+      "width": 2.238095238095238
+    },
+    {
+      "id": "T11v1 [#3]__A18g [#5]",
+      "from": "T11v1 [#3]",
+      "to": "A18g [#5]",
+      "value": 0.4761904761904761,
+      "label": "0%",
+      "color": {
+        "color": "#b279a2",
+        "highlight": "#b279a2",
+        "hover": "#b279a2"
+      },
+      "font": {
+        "align": "middle",
+        "size": 13,
+        "vadjust": 0
+      },
+      "smooth": {
+        "roundness": 0.45,
+        "type": "continuous"
+      },
+      "endPointOffset": {
+        "from": -16,
+        "to": 16
+      },
+      "width": 1.0285714285714285
+    },
+    {
+      "id": "T11v1 [#3]__A31x [#2]",
+      "from": "T11v1 [#3]",
+      "to": "A31x [#2]",
+      "value": 4.49438202247191,
+      "label": "4%",
+      "color": {
+        "color": "#b279a2",
+        "highlight": "#b279a2",
+        "hover": "#b279a2"
+      },
+      "font": {
+        "align": "middle",
+        "size": 13,
+        "vadjust": 0
+      },
+      "smooth": {
+        "roundness": 0.3,
+        "type": "continuous"
+      },
+      "endPointOffset": null,
+      "width": 1.2696629213483146
+    },
+    {
+      "id": "T11v1 [#3]__A14a1 [#2]",
+      "from": "T11v1 [#3]",
+      "to": "A14a1 [#2]",
+      "value": 0.4629629629629629,
+      "label": "0%",
+      "color": {
+        "color": "#b279a2",
+        "highlight": "#b279a2",
+        "hover": "#b279a2"
+      },
+      "font": {
+        "align": "middle",
+        "size": 13,
+        "vadjust": 0
+      },
+      "smooth": {
+        "roundness": 0.45,
+        "type": "continuous"
+      },
+      "endPointOffset": {
+        "from": -16,
+        "to": 16
+      },
+      "width": 1.0277777777777777
+    },
+    {
+      "id": "T11v1 [#3]__A06l [#2]",
+      "from": "T11v1 [#3]",
+      "to": "A06l [#2]",
+      "value": 2.2770398481973437,
+      "label": "2%",
+      "color": {
+        "color": "#b279a2",
+        "highlight": "#b279a2",
+        "hover": "#b279a2"
+      },
+      "font": {
+        "align": "middle",
+        "size": 13,
+        "vadjust": 0
+      },
+      "smooth": {
+        "roundness": 0.3,
+        "type": "continuous"
+      },
+      "endPointOffset": null,
+      "width": 1.1366223908918407
+    },
+    {
+      "id": "T11v1 [#3]__A08a [#2]",
+      "from": "T11v1 [#3]",
+      "to": "A08a [#2]",
+      "value": 7.042253521126761,
+      "label": "7%",
+      "color": {
+        "color": "#b279a2",
+        "highlight": "#b279a2",
+        "hover": "#b279a2"
+      },
+      "font": {
+        "align": "middle",
+        "size": 13,
+        "vadjust": 0
+      },
+      "smooth": {
+        "roundness": 0.45,
+        "type": "continuous"
+      },
+      "endPointOffset": {
+        "from": -16,
+        "to": 16
+      },
+      "width": 1.4225352112676055
+    },
+    {
+      "id": "T11v1 [#3]__A31k [#2]",
+      "from": "T11v1 [#3]",
+      "to": "A31k [#2]",
+      "value": 0.1694915254237288,
+      "label": "0%",
+      "color": {
+        "color": "#b279a2",
+        "highlight": "#b279a2",
+        "hover": "#b279a2"
+      },
+      "font": {
+        "align": "middle",
+        "size": 13,
+        "vadjust": 0
+      },
+      "smooth": {
+        "roundness": 0.3,
+        "type": "continuous"
+      },
+      "endPointOffset": null,
+      "width": 1.0101694915254238
+    },
+    {
+      "id": "T11v1 [#3]__A27p [#2]",
+      "from": "T11v1 [#3]",
+      "to": "A27p [#2]",
+      "value": 4.065040650406504,
+      "label": "4%",
+      "color": {
+        "color": "#b279a2",
+        "highlight": "#b279a2",
+        "hover": "#b279a2"
+      },
+      "font": {
+        "align": "middle",
+        "size": 13,
+        "vadjust": 0
+      },
+      "smooth": {
+        "roundness": 0.3,
+        "type": "continuous"
+      },
+      "endPointOffset": null,
+      "width": 1.2439024390243902
+    },
+    {
+      "id": "A18g [#5]__A02l [#2]",
+      "from": "A18g [#5]",
+      "to": "A02l [#2]",
+      "value": 17.46031746031746,
+      "label": "17%",
+      "color": {
+        "color": "#b279a2",
+        "highlight": "#b279a2",
+        "hover": "#b279a2"
+      },
+      "font": {
+        "align": "middle",
+        "size": 13,
+        "vadjust": 0
+      },
+      "smooth": {
+        "roundness": 0.3,
+        "type": "continuous"
+      },
+      "endPointOffset": null,
+      "width": 2.0476190476190474
+    },
+    {
+      "id": "A18g [#5]__T11v1 [#3]",
+      "from": "A18g [#5]",
+      "to": "T11v1 [#3]",
+      "value": 3.64963503649635,
+      "label": "4%",
+      "color": {
+        "color": "#b279a2",
+        "highlight": "#b279a2",
+        "hover": "#b279a2"
+      },
+      "font": {
+        "align": "middle",
+        "size": 13,
+        "vadjust": 0
+      },
+      "smooth": {
+        "roundness": 0.5,
+        "type": "continuous"
+      },
+      "endPointOffset": {
+        "from": 16,
+        "to": -16
+      },
+      "width": 1.218978102189781
+    },
+    {
+      "id": "A18g [#5]__A31x [#2]",
+      "from": "A18g [#5]",
+      "to": "A31x [#2]",
+      "value": 4.49438202247191,
+      "label": "4%",
+      "color": {
+        "color": "#b279a2",
+        "highlight": "#b279a2",
+        "hover": "#b279a2"
+      },
+      "font": {
+        "align": "middle",
+        "size": 13,
+        "vadjust": 0
+      },
+      "smooth": {
+        "roundness": 0.3,
+        "type": "continuous"
+      },
+      "endPointOffset": null,
+      "width": 1.2696629213483146
+    },
+    {
+      "id": "A18g [#5]__A14a1 [#2]",
+      "from": "A18g [#5]",
+      "to": "A14a1 [#2]",
+      "value": 0.9259259259259258,
+      "label": "1%",
+      "color": {
+        "color": "#b279a2",
+        "highlight": "#b279a2",
+        "hover": "#b279a2"
+      },
+      "font": {
+        "align": "middle",
+        "size": 13,
+        "vadjust": 0
+      },
+      "smooth": {
+        "roundness": 0.45,
+        "type": "continuous"
+      },
+      "endPointOffset": {
+        "from": -16,
+        "to": 16
+      },
+      "width": 1.0555555555555556
+    },
+    {
+      "id": "A18g [#5]__A06l [#2]",
+      "from": "A18g [#5]",
+      "to": "A06l [#2]",
+      "value": 1.7077798861480078,
+      "label": "2%",
+      "color": {
+        "color": "#b279a2",
+        "highlight": "#b279a2",
+        "hover": "#b279a2"
+      },
+      "font": {
+        "align": "middle",
+        "size": 13,
+        "vadjust": 0
+      },
+      "smooth": {
+        "roundness": 0.3,
+        "type": "continuous"
+      },
+      "endPointOffset": null,
+      "width": 1.1024667931688805
+    },
+    {
+      "id": "A18g [#5]__A08a [#2]",
+      "from": "A18g [#5]",
+      "to": "A08a [#2]",
+      "value": 5.633802816901409,
+      "label": "6%",
+      "color": {
+        "color": "#b279a2",
+        "highlight": "#b279a2",
+        "hover": "#b279a2"
+      },
+      "font": {
+        "align": "middle",
+        "size": 13,
+        "vadjust": 0
+      },
+      "smooth": {
+        "roundness": 0.45,
+        "type": "continuous"
+      },
+      "endPointOffset": {
+        "from": -16,
+        "to": 16
+      },
+      "width": 1.3380281690140845
+    },
+    {
+      "id": "A18g [#5]__A31k [#2]",
+      "from": "A18g [#5]",
+      "to": "A31k [#2]",
+      "value": 2.0338983050847457,
+      "label": "2%",
+      "color": {
+        "color": "#b279a2",
+        "highlight": "#b279a2",
+        "hover": "#b279a2"
+      },
+      "font": {
+        "align": "middle",
+        "size": 13,
+        "vadjust": 0
+      },
+      "smooth": {
+        "roundness": 0.3,
+        "type": "continuous"
+      },
+      "endPointOffset": null,
+      "width": 1.1220338983050848
+    },
+    {
+      "id": "A18g [#5]__A27p [#2]",
+      "from": "A18g [#5]",
+      "to": "A27p [#2]",
+      "value": 10.975609756097562,
+      "label": "11%",
+      "color": {
+        "color": "#b279a2",
+        "highlight": "#b279a2",
+        "hover": "#b279a2"
+      },
+      "font": {
+        "align": "middle",
+        "size": 13,
+        "vadjust": 0
+      },
+      "smooth": {
+        "roundness": 0.3,
+        "type": "continuous"
+      },
+      "endPointOffset": null,
+      "width": 1.6585365853658538
+    },
+    {
+      "id": "A31x [#2]__A02l [#2]",
+      "from": "A31x [#2]",
+      "to": "A02l [#2]",
+      "value": 11.904761904761903,
+      "label": "12%",
+      "color": {
+        "color": "#b279a2",
+        "highlight": "#b279a2",
+        "hover": "#b279a2"
+      },
+      "font": {
+        "align": "middle",
+        "size": 13,
+        "vadjust": 0
+      },
+      "smooth": {
+        "roundness": 0.5,
+        "type": "continuous"
+      },
+      "endPointOffset": {
+        "from": -16,
+        "to": 16
+      },
+      "width": 1.7142857142857142
+    },
+    {
+      "id": "A31x [#2]__A14a1 [#2]",
+      "from": "A31x [#2]",
+      "to": "A14a1 [#2]",
+      "value": 0.4629629629629629,
+      "label": "0%",
+      "color": {
+        "color": "#b279a2",
+        "highlight": "#b279a2",
+        "hover": "#b279a2"
+      },
+      "font": {
+        "align": "middle",
+        "size": 13,
+        "vadjust": 0
+      },
+      "smooth": {
+        "roundness": 0.45,
+        "type": "continuous"
+      },
+      "endPointOffset": {
+        "from": -16,
+        "to": 16
+      },
+      "width": 1.0277777777777777
+    },
+    {
+      "id": "A31x [#2]__A06l [#2]",
+      "from": "A31x [#2]",
+      "to": "A06l [#2]",
+      "value": 2.4667931688804554,
+      "label": "2%",
+      "color": {
+        "color": "#b279a2",
+        "highlight": "#b279a2",
+        "hover": "#b279a2"
+      },
+      "font": {
+        "align": "middle",
+        "size": 13,
+        "vadjust": 0
+      },
+      "smooth": {
+        "roundness": 0.3,
+        "type": "continuous"
+      },
+      "endPointOffset": null,
+      "width": 1.1480075901328273
+    },
+    {
+      "id": "A31x [#2]__A05a [#4]",
+      "from": "A31x [#2]",
+      "to": "A05a [#4]",
+      "value": 8.714596949891067,
+      "label": "9%",
+      "color": {
+        "color": "#b279a2",
+        "highlight": "#b279a2",
+        "hover": "#b279a2"
+      },
+      "font": {
+        "align": "middle",
+        "size": 13,
+        "vadjust": 0
+      },
+      "smooth": {
+        "roundness": 0.06,
+        "type": "curvedCCW"
+      },
+      "endPointOffset": {
+        "from": 16,
+        "to": -16
+      },
+      "width": 1.522875816993464
+    },
+    {
+      "id": "A31x [#2]__A08a [#2]",
+      "from": "A31x [#2]",
+      "to": "A08a [#2]",
+      "value": 5.633802816901409,
+      "label": "6%",
+      "color": {
+        "color": "#b279a2",
+        "highlight": "#b279a2",
+        "hover": "#b279a2"
+      },
+      "font": {
+        "align": "middle",
+        "size": 13,
+        "vadjust": 0
+      },
+      "smooth": {
+        "roundness": 0.45,
+        "type": "continuous"
+      },
+      "endPointOffset": {
+        "from": -16,
+        "to": 16
+      },
+      "width": 1.3380281690140845
+    },
+    {
+      "id": "A31x [#2]__A31k [#2]",
+      "from": "A31x [#2]",
+      "to": "A31k [#2]",
+      "value": 1.5254237288135593,
+      "label": "2%",
+      "color": {
+        "color": "#b279a2",
+        "highlight": "#b279a2",
+        "hover": "#b279a2"
+      },
+      "font": {
+        "align": "middle",
+        "size": 13,
+        "vadjust": 0
+      },
+      "smooth": {
+        "roundness": 0.3,
+        "type": "continuous"
+      },
+      "endPointOffset": null,
+      "width": 1.0915254237288137
+    },
+    {
+      "id": "A31x [#2]__A27p [#2]",
+      "from": "A31x [#2]",
+      "to": "A27p [#2]",
+      "value": 13.008130081300813,
+      "label": "13%",
+      "color": {
+        "color": "#b279a2",
+        "highlight": "#b279a2",
+        "hover": "#b279a2"
+      },
+      "font": {
+        "align": "middle",
+        "size": 13,
+        "vadjust": 0
+      },
+      "smooth": {
+        "roundness": 0.3,
+        "type": "continuous"
+      },
+      "endPointOffset": null,
+      "width": 1.7804878048780486
+    },
+    {
+      "id": "A14a1 [#2]__A02l [#2]",
+      "from": "A14a1 [#2]",
+      "to": "A02l [#2]",
+      "value": 11.904761904761903,
+      "label": "12%",
+      "color": {
+        "color": "#b279a2",
+        "highlight": "#b279a2",
+        "hover": "#b279a2"
+      },
+      "font": {
+        "align": "middle",
+        "size": 13,
+        "vadjust": 0
+      },
+      "smooth": {
+        "roundness": 0.3,
+        "type": "continuous"
+      },
+      "endPointOffset": null,
+      "width": 1.7142857142857142
+    },
+    {
+      "id": "A14a1 [#2]__T11v1 [#3]",
+      "from": "A14a1 [#2]",
+      "to": "T11v1 [#3]",
+      "value": 4.37956204379562,
+      "label": "4%",
+      "color": {
+        "color": "#b279a2",
+        "highlight": "#b279a2",
+        "hover": "#b279a2"
+      },
+      "font": {
+        "align": "middle",
+        "size": 13,
+        "vadjust": 0
+      },
+      "smooth": {
+        "roundness": 0.5,
+        "type": "continuous"
+      },
+      "endPointOffset": {
+        "from": 16,
+        "to": -16
+      },
+      "width": 1.2627737226277373
+    },
+    {
+      "id": "A14a1 [#2]__A18g [#5]",
+      "from": "A14a1 [#2]",
+      "to": "A18g [#5]",
+      "value": 1.6666666666666663,
+      "label": "2%",
+      "color": {
+        "color": "#b279a2",
+        "highlight": "#b279a2",
+        "hover": "#b279a2"
+      },
+      "font": {
+        "align": "middle",
+        "size": 13,
+        "vadjust": 0
+      },
+      "smooth": {
+        "roundness": 0.5,
+        "type": "continuous"
+      },
+      "endPointOffset": {
+        "from": 16,
+        "to": -16
+      },
+      "width": 1.1
+    },
+    {
+      "id": "A14a1 [#2]__A31x [#2]",
+      "from": "A14a1 [#2]",
+      "to": "A31x [#2]",
+      "value": 6.741573033707865,
+      "label": "7%",
+      "color": {
+        "color": "#b279a2",
+        "highlight": "#b279a2",
+        "hover": "#b279a2"
+      },
+      "font": {
+        "align": "middle",
+        "size": 13,
+        "vadjust": 0
+      },
+      "smooth": {
+        "roundness": 0.5,
+        "type": "continuous"
+      },
+      "endPointOffset": {
+        "from": 16,
+        "to": -16
+      },
+      "width": 1.404494382022472
+    },
+    {
+      "id": "A14a1 [#2]__A06l [#2]",
+      "from": "A14a1 [#2]",
+      "to": "A06l [#2]",
+      "value": 3.7950664136622394,
+      "label": "4%",
+      "color": {
+        "color": "#b279a2",
+        "highlight": "#b279a2",
+        "hover": "#b279a2"
+      },
+      "font": {
+        "align": "middle",
+        "size": 13,
+        "vadjust": 0
+      },
+      "smooth": {
+        "roundness": 0.3,
+        "type": "continuous"
+      },
+      "endPointOffset": null,
+      "width": 1.2277039848197344
+    },
+    {
+      "id": "A14a1 [#2]__A05a [#4]",
+      "from": "A14a1 [#2]",
+      "to": "A05a [#4]",
+      "value": 2.6143790849673203,
+      "label": "3%",
+      "color": {
+        "color": "#b279a2",
+        "highlight": "#b279a2",
+        "hover": "#b279a2"
+      },
+      "font": {
+        "align": "middle",
+        "size": 13,
+        "vadjust": 0
+      },
+      "smooth": {
+        "roundness": 0.45,
+        "type": "continuous"
+      },
+      "endPointOffset": {
+        "from": -16,
+        "to": 16
+      },
+      "width": 1.156862745098039
+    },
+    {
+      "id": "A14a1 [#2]__A08a [#2]",
+      "from": "A14a1 [#2]",
+      "to": "A08a [#2]",
+      "value": 5.915492957746479,
+      "label": "6%",
+      "color": {
+        "color": "#b279a2",
+        "highlight": "#b279a2",
+        "hover": "#b279a2"
+      },
+      "font": {
+        "align": "middle",
+        "size": 13,
+        "vadjust": 0
+      },
+      "smooth": {
+        "roundness": 0.45,
+        "type": "continuous"
+      },
+      "endPointOffset": {
+        "from": -16,
+        "to": 16
+      },
+      "width": 1.3549295774647887
+    },
+    {
+      "id": "A14a1 [#2]__A31k [#2]",
+      "from": "A14a1 [#2]",
+      "to": "A31k [#2]",
+      "value": 0.6779661016949152,
+      "label": "1%",
+      "color": {
+        "color": "#b279a2",
+        "highlight": "#b279a2",
+        "hover": "#b279a2"
+      },
+      "font": {
+        "align": "middle",
+        "size": 13,
+        "vadjust": 0
+      },
+      "smooth": {
+        "roundness": 0.3,
+        "type": "continuous"
+      },
+      "endPointOffset": null,
+      "width": 1.040677966101695
+    },
+    {
+      "id": "A14a1 [#2]__A27p [#2]",
+      "from": "A14a1 [#2]",
+      "to": "A27p [#2]",
+      "value": 8.94308943089431,
+      "label": "9%",
+      "color": {
+        "color": "#b279a2",
+        "highlight": "#b279a2",
+        "hover": "#b279a2"
+      },
+      "font": {
+        "align": "middle",
+        "size": 13,
+        "vadjust": 0
+      },
+      "smooth": {
+        "roundness": 0.3,
+        "type": "continuous"
+      },
+      "endPointOffset": null,
+      "width": 1.5365853658536586
+    },
+    {
+      "id": "A19f [#6]__A02l [#2]",
+      "from": "A19f [#6]",
+      "to": "A02l [#2]",
+      "value": 6.349206349206349,
+      "label": "6%",
+      "color": {
+        "color": "#b279a2",
+        "highlight": "#b279a2",
+        "hover": "#b279a2"
+      },
+      "font": {
+        "align": "middle",
+        "size": 13,
+        "vadjust": 0
+      },
+      "smooth": {
+        "roundness": 0.3,
+        "type": "continuous"
+      },
+      "endPointOffset": null,
+      "width": 1.380952380952381
+    },
+    {
+      "id": "A19f [#6]__T11v1 [#3]",
+      "from": "A19f [#6]",
+      "to": "T11v1 [#3]",
+      "value": 0.7299270072992701,
+      "label": "1%",
+      "color": {
+        "color": "#b279a2",
+        "highlight": "#b279a2",
+        "hover": "#b279a2"
+      },
+      "font": {
+        "align": "middle",
+        "size": 13,
+        "vadjust": 0
+      },
+      "smooth": {
+        "roundness": 0.3,
+        "type": "continuous"
+      },
+      "endPointOffset": null,
+      "width": 1.0437956204379562
+    },
+    {
+      "id": "A19f [#6]__A18g [#5]",
+      "from": "A19f [#6]",
+      "to": "A18g [#5]",
+      "value": 0.238095238095238,
+      "label": "0%",
+      "color": {
+        "color": "#b279a2",
+        "highlight": "#b279a2",
+        "hover": "#b279a2"
+      },
+      "font": {
+        "align": "middle",
+        "size": 13,
+        "vadjust": 0
+      },
+      "smooth": {
+        "roundness": 0.3,
+        "type": "continuous"
+      },
+      "endPointOffset": null,
+      "width": 1.0142857142857142
+    },
+    {
+      "id": "A19f [#6]__A14a1 [#2]",
+      "from": "A19f [#6]",
+      "to": "A14a1 [#2]",
+      "value": 1.3888888888888888,
+      "label": "1%",
+      "color": {
+        "color": "#b279a2",
+        "highlight": "#b279a2",
+        "hover": "#b279a2"
+      },
+      "font": {
+        "align": "middle",
+        "size": 13,
+        "vadjust": 0
+      },
+      "smooth": {
+        "roundness": 0.3,
+        "type": "continuous"
+      },
+      "endPointOffset": null,
+      "width": 1.0833333333333333
+    },
+    {
+      "id": "A19f [#6]__A05a [#4]",
+      "from": "A19f [#6]",
+      "to": "A05a [#4]",
+      "value": 10.45751633986928,
+      "label": "10%",
+      "color": {
+        "color": "#b279a2",
+        "highlight": "#b279a2",
+        "hover": "#b279a2"
+      },
+      "font": {
+        "align": "middle",
+        "size": 13,
+        "vadjust": 0
+      },
+      "smooth": {
+        "roundness": 0.23,
+        "type": "curvedCCW"
+      },
+      "endPointOffset": {
+        "from": 16,
+        "to": -16
+      },
+      "width": 1.6274509803921569
+    },
+    {
+      "id": "A19f [#6]__A08a [#2]",
+      "from": "A19f [#6]",
+      "to": "A08a [#2]",
+      "value": 0.8450704225352114,
+      "label": "1%",
+      "color": {
+        "color": "#b279a2",
+        "highlight": "#b279a2",
+        "hover": "#b279a2"
+      },
+      "font": {
+        "align": "middle",
+        "size": 13,
+        "vadjust": 0
+      },
+      "smooth": {
+        "roundness": 0.3,
+        "type": "continuous"
+      },
+      "endPointOffset": null,
+      "width": 1.0507042253521126
+    },
+    {
+      "id": "A02k [#2]__A02l [#2]",
+      "from": "A02k [#2]",
+      "to": "A02l [#2]",
+      "value": 3.968253968253968,
+      "label": "4%",
+      "color": {
+        "color": "#b279a2",
+        "highlight": "#b279a2",
+        "hover": "#b279a2"
+      },
+      "font": {
+        "align": "middle",
+        "size": 13,
+        "vadjust": 0
+      },
+      "smooth": {
+        "roundness": 0.3,
+        "type": "continuous"
+      },
+      "endPointOffset": null,
+      "width": 1.2380952380952381
+    },
+    {
+      "id": "A02k [#2]__A14a1 [#2]",
+      "from": "A02k [#2]",
+      "to": "A14a1 [#2]",
+      "value": 0.4629629629629629,
+      "label": "0%",
+      "color": {
+        "color": "#b279a2",
+        "highlight": "#b279a2",
+        "hover": "#b279a2"
+      },
+      "font": {
+        "align": "middle",
+        "size": 13,
+        "vadjust": 0
+      },
+      "smooth": {
+        "roundness": 0.3,
+        "type": "continuous"
+      },
+      "endPointOffset": null,
+      "width": 1.0277777777777777
+    },
+    {
+      "id": "A02k [#2]__A06l [#2]",
+      "from": "A02k [#2]",
+      "to": "A06l [#2]",
+      "value": 3.4155597722960156,
+      "label": "3%",
+      "color": {
+        "color": "#b279a2",
+        "highlight": "#b279a2",
+        "hover": "#b279a2"
+      },
+      "font": {
+        "align": "middle",
+        "size": 13,
+        "vadjust": 0
+      },
+      "smooth": {
+        "roundness": 0.45,
+        "type": "continuous"
+      },
+      "endPointOffset": {
+        "from": 16,
+        "to": -16
+      },
+      "width": 1.204933586337761
+    },
+    {
+      "id": "A02k [#2]__A05a [#4]",
+      "from": "A02k [#2]",
+      "to": "A05a [#4]",
+      "value": 0.2178649237472767,
+      "label": "0%",
+      "color": {
+        "color": "#b279a2",
+        "highlight": "#b279a2",
+        "hover": "#b279a2"
+      },
+      "font": {
+        "align": "middle",
+        "size": 13,
+        "vadjust": 0
+      },
+      "smooth": {
+        "roundness": 0.45,
+        "type": "continuous"
+      },
+      "endPointOffset": {
+        "from": 16,
+        "to": -16
+      },
+      "width": 1.0130718954248366
+    },
+    {
+      "id": "A02k [#2]__A31k [#2]",
+      "from": "A02k [#2]",
+      "to": "A31k [#2]",
+      "value": 2.711864406779661,
+      "label": "3%",
+      "color": {
+        "color": "#b279a2",
+        "highlight": "#b279a2",
+        "hover": "#b279a2"
+      },
+      "font": {
+        "align": "middle",
+        "size": 13,
+        "vadjust": 0
+      },
+      "smooth": {
+        "roundness": 0.3,
+        "type": "continuous"
+      },
+      "endPointOffset": null,
+      "width": 1.1627118644067798
+    },
+    {
+      "id": "dbd [#2]__A02l [#2]",
+      "from": "dbd [#2]",
+      "to": "A02l [#2]",
+      "value": 3.968253968253968,
+      "label": "4%",
+      "color": {
+        "color": "#b279a2",
+        "highlight": "#b279a2",
+        "hover": "#b279a2"
+      },
+      "font": {
+        "align": "middle",
+        "size": 13,
+        "vadjust": 0
+      },
+      "smooth": {
+        "roundness": 0.3,
+        "type": "continuous"
+      },
+      "endPointOffset": null,
+      "width": 1.2380952380952381
+    },
+    {
+      "id": "dbd [#2]__T11v1 [#3]",
+      "from": "dbd [#2]",
+      "to": "T11v1 [#3]",
+      "value": 0.7299270072992701,
+      "label": "1%",
+      "color": {
+        "color": "#b279a2",
+        "highlight": "#b279a2",
+        "hover": "#b279a2"
+      },
+      "font": {
+        "align": "middle",
+        "size": 13,
+        "vadjust": 0
+      },
+      "smooth": {
+        "roundness": 0.3,
+        "type": "continuous"
+      },
+      "endPointOffset": null,
+      "width": 1.0437956204379562
+    },
+    {
+      "id": "dbd [#2]__A19f [#6]",
+      "from": "dbd [#2]",
+      "to": "A19f [#6]",
+      "value": 0.1821493624772313,
+      "label": "0%",
+      "color": {
+        "color": "#b279a2",
+        "highlight": "#b279a2",
+        "hover": "#b279a2"
+      },
+      "font": {
+        "align": "middle",
+        "size": 13,
+        "vadjust": 0
+      },
+      "smooth": {
+        "roundness": 0.3,
+        "type": "continuous"
+      },
+      "endPointOffset": null,
+      "width": 1.010928961748634
+    },
+    {
+      "id": "dbd [#2]__A02k [#2]",
+      "from": "dbd [#2]",
+      "to": "A02k [#2]",
+      "value": 0.6389776357827476,
+      "label": "1%",
+      "color": {
+        "color": "#b279a2",
+        "highlight": "#b279a2",
+        "hover": "#b279a2"
+      },
+      "font": {
+        "align": "middle",
+        "size": 13,
+        "vadjust": 0
+      },
+      "smooth": {
+        "roundness": 0.3,
+        "type": "continuous"
+      },
+      "endPointOffset": null,
+      "width": 1.038338658146965
+    },
+    {
+      "id": "dbd [#2]__A06l [#2]",
+      "from": "dbd [#2]",
+      "to": "A06l [#2]",
+      "value": 0.1897533206831119,
+      "label": "0%",
+      "color": {
+        "color": "#b279a2",
+        "highlight": "#b279a2",
+        "hover": "#b279a2"
+      },
+      "font": {
+        "align": "middle",
+        "size": 13,
+        "vadjust": 0
+      },
+      "smooth": {
+        "roundness": 0.3,
+        "type": "continuous"
+      },
+      "endPointOffset": null,
+      "width": 1.0113851992409868
+    },
+    {
+      "id": "dbd [#2]__A08a [#2]",
+      "from": "dbd [#2]",
+      "to": "A08a [#2]",
+      "value": 7.605633802816902,
+      "label": "8%",
+      "color": {
+        "color": "#b279a2",
+        "highlight": "#b279a2",
+        "hover": "#b279a2"
+      },
+      "font": {
+        "align": "middle",
+        "size": 13,
+        "vadjust": 0
+      },
+      "smooth": {
+        "roundness": 0.3,
+        "type": "continuous"
+      },
+      "endPointOffset": null,
+      "width": 1.4563380281690141
+    },
+    {
+      "id": "A06l [#2]__A02k [#2]",
+      "from": "A06l [#2]",
+      "to": "A02k [#2]",
+      "value": 2.5559105431309903,
+      "label": "3%",
+      "color": {
+        "color": "#b279a2",
+        "highlight": "#b279a2",
+        "hover": "#b279a2"
+      },
+      "font": {
+        "align": "middle",
+        "size": 13,
+        "vadjust": 0
+      },
+      "smooth": {
+        "roundness": 0.5,
+        "type": "continuous"
+      },
+      "endPointOffset": {
+        "from": -16,
+        "to": 16
+      },
+      "width": 1.1533546325878594
+    },
+    {
+      "id": "A05a [#4]__A02l [#2]",
+      "from": "A05a [#4]",
+      "to": "A02l [#2]",
+      "value": 0.7936507936507936,
+      "label": "1%",
+      "color": {
+        "color": "#b279a2",
+        "highlight": "#b279a2",
+        "hover": "#b279a2"
+      },
+      "font": {
+        "align": "middle",
+        "size": 13,
+        "vadjust": 0
+      },
+      "smooth": {
+        "roundness": 0.5,
+        "type": "continuous"
+      },
+      "endPointOffset": {
+        "from": -16,
+        "to": 16
+      },
+      "width": 1.0476190476190477
+    },
+    {
+      "id": "A05a [#4]__T11v1 [#3]",
+      "from": "A05a [#4]",
+      "to": "T11v1 [#3]",
+      "value": 1.45985401459854,
+      "label": "1%",
+      "color": {
+        "color": "#b279a2",
+        "highlight": "#b279a2",
+        "hover": "#b279a2"
+      },
+      "font": {
+        "align": "middle",
+        "size": 13,
+        "vadjust": 0
+      },
+      "smooth": {
+        "roundness": 0.3,
+        "type": "continuous"
+      },
+      "endPointOffset": null,
+      "width": 1.0875912408759123
+    },
+    {
+      "id": "A05a [#4]__A18g [#5]",
+      "from": "A05a [#4]",
+      "to": "A18g [#5]",
+      "value": 0.9523809523809524,
+      "label": "1%",
+      "color": {
+        "color": "#b279a2",
+        "highlight": "#b279a2",
+        "hover": "#b279a2"
+      },
+      "font": {
+        "align": "middle",
+        "size": 13,
+        "vadjust": 0
+      },
+      "smooth": {
+        "roundness": 0.3,
+        "type": "continuous"
+      },
+      "endPointOffset": null,
+      "width": 1.0571428571428572
+    },
+    {
+      "id": "A05a [#4]__A31x [#2]",
+      "from": "A05a [#4]",
+      "to": "A31x [#2]",
+      "value": 1.1235955056179776,
+      "label": "1%",
+      "color": {
+        "color": "#b279a2",
+        "highlight": "#b279a2",
+        "hover": "#b279a2"
+      },
+      "font": {
+        "align": "middle",
+        "size": 13,
+        "vadjust": 0
+      },
+      "smooth": {
+        "roundness": 0.06,
+        "type": "curvedCW"
+      },
+      "endPointOffset": {
+        "from": -16,
+        "to": 16
+      },
+      "width": 1.0674157303370786
+    },
+    {
+      "id": "A05a [#4]__A14a1 [#2]",
+      "from": "A05a [#4]",
+      "to": "A14a1 [#2]",
+      "value": 2.314814814814815,
+      "label": "2%",
+      "color": {
+        "color": "#b279a2",
+        "highlight": "#b279a2",
+        "hover": "#b279a2"
+      },
+      "font": {
+        "align": "middle",
+        "size": 13,
+        "vadjust": 0
+      },
+      "smooth": {
+        "roundness": 0.5,
+        "type": "continuous"
+      },
+      "endPointOffset": {
+        "from": 16,
+        "to": -16
+      },
+      "width": 1.1388888888888888
+    },
+    {
+      "id": "A05a [#4]__A19f [#6]",
+      "from": "A05a [#4]",
+      "to": "A19f [#6]",
+      "value": 0.1821493624772313,
+      "label": "0%",
+      "color": {
+        "color": "#b279a2",
+        "highlight": "#b279a2",
+        "hover": "#b279a2"
+      },
+      "font": {
+        "align": "middle",
+        "size": 13,
+        "vadjust": 0
+      },
+      "smooth": {
+        "roundness": 0.23,
+        "type": "curvedCW"
+      },
+      "endPointOffset": {
+        "from": -16,
+        "to": 16
+      },
+      "width": 1.010928961748634
+    },
+    {
+      "id": "A05a [#4]__A02k [#2]",
+      "from": "A05a [#4]",
+      "to": "A02k [#2]",
+      "value": 4.15335463258786,
+      "label": "4%",
+      "color": {
+        "color": "#b279a2",
+        "highlight": "#b279a2",
+        "hover": "#b279a2"
+      },
+      "font": {
+        "align": "middle",
+        "size": 13,
+        "vadjust": 0
+      },
+      "smooth": {
+        "roundness": 0.5,
+        "type": "continuous"
+      },
+      "endPointOffset": {
+        "from": -16,
+        "to": 16
+      },
+      "width": 1.2492012779552715
+    },
+    {
+      "id": "A05a [#4]__A31k [#2]",
+      "from": "A05a [#4]",
+      "to": "A31k [#2]",
+      "value": 0.1694915254237288,
+      "label": "0%",
+      "color": {
+        "color": "#b279a2",
+        "highlight": "#b279a2",
+        "hover": "#b279a2"
+      },
+      "font": {
+        "align": "middle",
+        "size": 13,
+        "vadjust": 0
+      },
+      "smooth": {
+        "roundness": 0.3,
+        "type": "continuous"
+      },
+      "endPointOffset": null,
+      "width": 1.0101694915254238
+    },
+    {
+      "id": "A05a [#4]__A27p [#2]",
+      "from": "A05a [#4]",
+      "to": "A27p [#2]",
+      "value": 0.8130081300813008,
+      "label": "1%",
+      "color": {
+        "color": "#b279a2",
+        "highlight": "#b279a2",
+        "hover": "#b279a2"
+      },
+      "font": {
+        "align": "middle",
+        "size": 13,
+        "vadjust": 0
+      },
+      "smooth": {
+        "roundness": 0.3,
+        "type": "continuous"
+      },
+      "endPointOffset": null,
+      "width": 1.048780487804878
+    },
+    {
+      "id": "A08a [#2]__A02l [#2]",
+      "from": "A08a [#2]",
+      "to": "A02l [#2]",
+      "value": 2.380952380952381,
+      "label": "2%",
+      "color": {
+        "color": "#b279a2",
+        "highlight": "#b279a2",
+        "hover": "#b279a2"
+      },
+      "font": {
+        "align": "middle",
+        "size": 13,
+        "vadjust": 0
+      },
+      "smooth": {
+        "roundness": 0.5,
+        "type": "continuous"
+      },
+      "endPointOffset": {
+        "from": -16,
+        "to": 16
+      },
+      "width": 1.1428571428571428
+    },
+    {
+      "id": "A08a [#2]__T11v1 [#3]",
+      "from": "A08a [#2]",
+      "to": "T11v1 [#3]",
+      "value": 4.37956204379562,
+      "label": "4%",
+      "color": {
+        "color": "#b279a2",
+        "highlight": "#b279a2",
+        "hover": "#b279a2"
+      },
+      "font": {
+        "align": "middle",
+        "size": 13,
+        "vadjust": 0
+      },
+      "smooth": {
+        "roundness": 0.5,
+        "type": "continuous"
+      },
+      "endPointOffset": {
+        "from": 16,
+        "to": -16
+      },
+      "width": 1.2627737226277373
+    },
+    {
+      "id": "A08a [#2]__A18g [#5]",
+      "from": "A08a [#2]",
+      "to": "A18g [#5]",
+      "value": 2.142857142857143,
+      "label": "2%",
+      "color": {
+        "color": "#b279a2",
+        "highlight": "#b279a2",
+        "hover": "#b279a2"
+      },
+      "font": {
+        "align": "middle",
+        "size": 13,
+        "vadjust": 0
+      },
+      "smooth": {
+        "roundness": 0.5,
+        "type": "continuous"
+      },
+      "endPointOffset": {
+        "from": 16,
+        "to": -16
+      },
+      "width": 1.1285714285714286
+    },
+    {
+      "id": "A08a [#2]__A31x [#2]",
+      "from": "A08a [#2]",
+      "to": "A31x [#2]",
+      "value": 1.1235955056179776,
+      "label": "1%",
+      "color": {
+        "color": "#b279a2",
+        "highlight": "#b279a2",
+        "hover": "#b279a2"
+      },
+      "font": {
+        "align": "middle",
+        "size": 13,
+        "vadjust": 0
+      },
+      "smooth": {
+        "roundness": 0.5,
+        "type": "continuous"
+      },
+      "endPointOffset": {
+        "from": 16,
+        "to": -16
+      },
+      "width": 1.0674157303370786
+    },
+    {
+      "id": "A08a [#2]__A14a1 [#2]",
+      "from": "A08a [#2]",
+      "to": "A14a1 [#2]",
+      "value": 0.9259259259259258,
+      "label": "1%",
+      "color": {
+        "color": "#b279a2",
+        "highlight": "#b279a2",
+        "hover": "#b279a2"
+      },
+      "font": {
+        "align": "middle",
+        "size": 13,
+        "vadjust": 0
+      },
+      "smooth": {
+        "roundness": 0.5,
+        "type": "continuous"
+      },
+      "endPointOffset": {
+        "from": 16,
+        "to": -16
+      },
+      "width": 1.0555555555555556
+    },
+    {
+      "id": "A08a [#2]__A31k [#2]",
+      "from": "A08a [#2]",
+      "to": "A31k [#2]",
+      "value": 0.3389830508474576,
+      "label": "0%",
+      "color": {
+        "color": "#b279a2",
+        "highlight": "#b279a2",
+        "hover": "#b279a2"
+      },
+      "font": {
+        "align": "middle",
+        "size": 13,
+        "vadjust": 0
+      },
+      "smooth": {
+        "roundness": 0.3,
+        "type": "continuous"
+      },
+      "endPointOffset": null,
+      "width": 1.0203389830508474
+    },
+    {
+      "id": "A08a [#2]__A27p [#2]",
+      "from": "A08a [#2]",
+      "to": "A27p [#2]",
+      "value": 5.284552845528455,
+      "label": "5%",
+      "color": {
+        "color": "#b279a2",
+        "highlight": "#b279a2",
+        "hover": "#b279a2"
+      },
+      "font": {
+        "align": "middle",
+        "size": 13,
+        "vadjust": 0
+      },
+      "smooth": {
+        "roundness": 0.3,
+        "type": "continuous"
+      },
+      "endPointOffset": null,
+      "width": 1.3170731707317072
+    }
+  ]
+}
