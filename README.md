@@ -4,3 +4,6 @@ The code to reproduce analyses in Date et al (2026) Tonically active interneuron
 codes: notebooks for reproducing all plots in the paper
 
 data: preprocessed data for generating plots
+
+#Usage
+Please create the environment from environment.yml and run the notebooks.
